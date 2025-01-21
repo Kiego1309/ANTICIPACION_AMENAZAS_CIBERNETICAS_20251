@@ -45,7 +45,7 @@
 * Caso real: El ataque de ransomware WannaCry en 2017 afectó a miles de organizaciones en todo el mundo, incluyendo el Servicio Nacional de Salud (NHS) del Reino Unido, causando interrupciones masivas.
 *  Europol. (2017). WannaCry Ransomware Attack. Recuperado de https://www.europol.europa.eu/
 
-* 3.	Denial of Service (DoS)
+# DENIAL OF SERVICE (DoS)
 
 ![denial of service](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/62826a3497d4ec066e41c9f0_DoS%20in%20action.jpg)
 
